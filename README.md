@@ -62,7 +62,7 @@ The project is divided into several key steps:
    ```bash
    git clone https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction.git
 2. Navigate to the project directory and explore the Jupyter Notebooks provided:
-   * [Data Collection and Wrangling]([https://website-name.com](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Notebooks/1-Data%20Collection%20API%20and%20Web%20Scraping.ipynb)
+* [Data Collection and Wrangling](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Notebooks/1-Data%20Collection%20API%20and%20Web%20Scraping.ipynb)
 
 ## Conclusion
 

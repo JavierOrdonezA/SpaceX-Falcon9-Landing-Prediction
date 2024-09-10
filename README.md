@@ -61,3 +61,10 @@ The project is divided into several key steps:
 1. Clone the project repository from GitHub:
    ```bash
    git clone https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction.git
+
+## Conclusion
+
+This project provides insights into the factors affecting SpaceX Falcon 9 landing outcomes and 
+demonstrates the power of machine learning in predicting these outcomes. The models developed 
+can help improve cost analysis and decision-making for future space missions.
+

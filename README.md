@@ -61,9 +61,7 @@ The project is divided into several key steps:
 1. Clone the project repository from GitHub:
    ```bash
    git clone https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction.git
-2. Navigate to the project directory and explore the Jupyter Notebooks provided
-* [Notebooks project](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/tree/main/Notebooks)
-
+2. Navigate to the project directory and explore the Jupyter [Notebooks project](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/tree/main/Notebooks) provided
 
 ## Conclusion
 

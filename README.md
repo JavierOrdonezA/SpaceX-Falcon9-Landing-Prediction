@@ -15,6 +15,8 @@ I created a presentation to summarize and visualize all the key findings and ste
 
 [SpaceX Falcon 9 Landing Project Presentation](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Project%20Presentation.pdf)
 
+![Falcon 9 Landing](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODllbDJpOXpxaGg3cXFqOGpva3RpcW1hd3Vrb2M4Y2hxM24xNzk1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bueqp6vf6qYUe8o/giphy.webp)
+
 
 ## Data Sources
 1. **SpaceX API**: Used to collect launch data for Falcon 9 rockets.

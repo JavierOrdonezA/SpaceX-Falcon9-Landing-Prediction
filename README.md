@@ -48,6 +48,8 @@ The project is divided into several key steps:
    - **Logistic Regression** achieved the highest accuracy at 83.33%.
    - Decision Trees, after hyperparameter tuning, achieved the best performance with an accuracy of 88.88%.
    - The models performed well, with minor misclassifications typically involving overestimation of successful landings.
+
+### Model Performance Table
   
 | Algorithm               | Accuracy Score | Best Score  |
 |-------------------------|----------------|-------------|

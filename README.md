@@ -79,3 +79,18 @@ This project provides insights into the factors affecting SpaceX Falcon 9 landin
 demonstrates the power of machine learning in predicting these outcomes. The models developed 
 can help improve cost analysis and decision-making for future space missions.
 
+---
+Feel free to explore the projects and their solutions in the respective directories.
+👾 Happy coding! 🥷
+
+**F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
+
+**J. C Guevara Gomez (juancamilo.guevaragomez@gmail.com)**
+
+---
+Thanks For Watching This Repository!
+
+**KEEP AWESOME & STAY COOL!** 😎
+
+Feel Free To Fork And Report If You Find Any Issue :)
+

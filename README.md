@@ -85,8 +85,6 @@ Feel free to explore the projects and their solutions in the respective director
 
 **F. J. Ordonez Araujo (fordonezaraujo@gmail.com)**
 
-**J. C Guevara Gomez (juancamilo.guevaragomez@gmail.com)**
-
 ---
 Thanks For Watching This Repository!
 

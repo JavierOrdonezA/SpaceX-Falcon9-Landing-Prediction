@@ -53,7 +53,7 @@ The project is divided into several key steps:
    - Success rates of Falcon 9 landings have steadily increased since 2010.
 
 2. **Predictive Model Results**:
-   - **Logistic Regression** achieved the highest accuracy at 83.33%.
+   - **Logistic Regression** achieved the highest accuracy at 84.33%.
    - Decision Trees, after hyperparameter tuning, achieved the best performance with an accuracy of 88.88%.
    - The models performed well, with minor misclassifications typically involving overestimation of successful landings.
 
@@ -61,7 +61,7 @@ The project is divided into several key steps:
   
 | Algorithm               | Accuracy Score | Best Score  |
 |-------------------------|----------------|-------------|
-| Logistic Regression      | 0.833333       | 0.846429    |
+| Logistic Regression      | 0.843333       | 0.846429    |
 | Support Vector Machine   | 0.833333       | 0.848214    |
 | Decision Tree            | 0.777778       | 0.889286    |
 | K Nearest Neighbours     | 0.833333       | 0.875000    |

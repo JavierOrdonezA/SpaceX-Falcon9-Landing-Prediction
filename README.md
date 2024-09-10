@@ -48,6 +48,14 @@ The project is divided into several key steps:
    - **Logistic Regression** achieved the highest accuracy at 83.33%.
    - Decision Trees, after hyperparameter tuning, achieved the best performance with an accuracy of 88.88%.
    - The models performed well, with minor misclassifications typically involving overestimation of successful landings.
+  
+| Algorithm               | Accuracy Score | Best Score  |
+|-------------------------|----------------|-------------|
+| Logistic Regression      | 0.833333       | 0.846429    |
+| Support Vector Machine   | 0.833333       | 0.848214    |
+| Decision Tree            | 0.777778       | 0.889286    |
+| K Nearest Neighbours     | 0.833333       | 0.875000    |
+
 
 ## Technologies Used
 - **Programming Languages**: Python

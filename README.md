@@ -10,6 +10,12 @@ This project is part of the IBM Data Science Professional Certification. The obj
 - Analyze the factors influencing landing success rates.
 - Use historical data to build machine learning models for predictive analysis.
 
+### Project Presentation
+I created a presentation to summarize and visualize all the key findings and steps of the project. You can view the presentation at the following link in the project repository:
+
+[SpaceX Falcon 9 Landing Project Presentation](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Project%20Presentation.pdf)
+
+
 ## Data Sources
 1. **SpaceX API**: Used to collect launch data for Falcon 9 rockets.
 2. **Web Scraping**: Employed to gather additional details on launches from static web pages.

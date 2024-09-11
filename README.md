@@ -17,9 +17,6 @@ I created a presentation to summarize and visualize all the key findings and ste
 
 ![Falcon 9 Landing](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODllbDJpOXpxaGg3cXFqOGpva3RpcW1hd3Vrb2M4Y2hxM24xNzk1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bueqp6vf6qYUe8o/giphy.webp)
 
-![Falcon 9 Landing](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Notebooks/animacion_plotly_fila_columna.html)
-
-
 
 ## Data Sources
 1. **SpaceX API**: Used to collect launch data for Falcon 9 rockets.
@@ -57,19 +54,20 @@ The project is divided into several key steps:
 
 2. **Predictive Model Results**:
    - **Logistic Regression**, **Support Vector Machine**, and **K Nearest Neighbours** tied with 83.33% accuracy.
-   - **Decision Trees**, after hyperparameter tuning, achieved the best performance with an accuracy of 88.88%.
-   - The models performed well, with minor misclassifications typically involving overestimation of successful landings.
+   - **Decision Trees** had the best performance with an accuracy score of 94.44%, outperforming the other models.
+   -  In terms of best score across multiple evaluations, Decision Tree led with 86.1%, while Support Vector Machine and K Nearest Neighbours both achieved 84.8%.
 
 
 ### Model Performance Table
   
-| Algorithm               | Accuracy Score | Best Score  |
-|-------------------------|----------------|-------------|
-| Logistic Regression      | 0.833333       | 0.846429    |
-| Support Vector Machine   | 0.833333       | 0.848214    |
-| Decision Tree            | 0.777778       | 0.889286    |
-| K Nearest Neighbours     | 0.833333       | 0.875000    |
+| Algorithm                 | Accuracy Score | Best Score |
+|---------------------------|----------------|------------|
+| Logistic Regression        | 0.833          | 0.846      |
+| Support Vector Machine     | 0.833          | 0.848      |
+| Decision Tree              | 0.944          | 0.861      |
+| K Nearest Neighbours       | 0.833          | 0.848      |
 
+You can check the interactive visualization created using Plotly [here](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Notebooks/animacion_plotly_fila_columna.html).
 
 ## Technologies Used
 - **Programming Languages**: Python

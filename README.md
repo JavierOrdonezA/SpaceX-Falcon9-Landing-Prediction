@@ -67,7 +67,7 @@ The project is divided into several key steps:
 | Decision Tree              | 0.944          | 0.861      |
 | K Nearest Neighbours       | 0.833          | 0.848      |
 
-You can check the interactive visualization created using Plotly [here](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Notebooks/animacion_plotly_fila_columna.html).
+![Plotly Visualization](https://github.com/JavierOrdonezA/SpaceX-Falcon9-Landing-Prediction/blob/main/Notebooks/plotly_reasult.png)
 
 ## Technologies Used
 - **Programming Languages**: Python

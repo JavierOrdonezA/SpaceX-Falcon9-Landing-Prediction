@@ -59,7 +59,7 @@ The project is divided into several key steps:
    -  Decision Tree’s superior performance highlights the importance of hyperparameter tuning in improving model accuracy.
 
 
-### Model Performance Table
+### Model Performance Table and Visualization
   
 | Algorithm                 | Accuracy Score | Best Score |
 |---------------------------|----------------|------------|

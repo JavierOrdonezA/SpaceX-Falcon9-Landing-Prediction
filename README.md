@@ -54,8 +54,9 @@ The project is divided into several key steps:
 
 2. **Predictive Model Results**:
    - **Logistic Regression**, **Support Vector Machine**, and **K Nearest Neighbours** tied with 83.33% accuracy.
-   - **Decision Trees** had the best performance with an accuracy score of 94.44%, outperforming the other models.
-   -  In terms of best score across multiple evaluations, Decision Tree led with 86.1%, while Support Vector Machine and K Nearest Neighbours both achieved 84.8%.
+   - **Decision Trees** had the best performance with an accuracy score of **94.44%**, outperforming the other models.
+   -  In terms of best score across multiple evaluations, Decision Tree led with **86.1%**, while Support Vector Machine and K Nearest Neighbours both achieved **84.8%**.
+   -  Decision Tree’s superior performance highlights the importance of hyperparameter tuning in improving model accuracy.
 
 
 ### Model Performance Table
